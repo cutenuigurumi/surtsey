@@ -1,0 +1,2 @@
+module CaseCategoriesHelper
+end
